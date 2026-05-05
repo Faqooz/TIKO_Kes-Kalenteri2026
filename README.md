@@ -9,8 +9,8 @@ Avaa `index.html` selaimessa tai julkaise kansio GitHub Pagesissa.
 
 ## Käyttö
 1. Avaa `index.html` selaimessa.
-2. Kalenteri rakentuu automaattisesti.
-3. Luukut avautuvat vain silloin kun niiden viikko on alkanut.
+2. Kalenteri avautuu automaattisesti.
+3. Luukut avautuvat vain silloin kun aiempi luukku on jo avattu.
 4. Kirjoita `TIKO` löytääksesi easter eggin.
 
 ## GitHub Pages
@@ -20,3 +20,5 @@ Avaa `index.html` selaimessa tai julkaise kansio GitHub Pagesissa.
 
 ## Huomio
 Tässä versiossa kuvat tulevat ulkoisista URL-osoitteista, joten verkkoyhteys tarvitaan niiden lataamiseen.
+## TESTAUS TUNNILLA/ESITTELEMINEN
+ladatkaa html, ja avatkaa localhostina, jos ei muuten toimi. testattu vain localhost
