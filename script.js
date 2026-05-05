@@ -52,7 +52,7 @@ const DOORS = [
     title:       "Kauppatorin Auringonnousu",
     emoji:       "🌅",
     category:    "Kokemus",
-    description: "Herää ennen aurinkoa ja kävele Kauppatorille katsomaan Helsingin upeinta auringonnousua. Vie termos kahvia, kutsu kaveri ja istu laiturilla. Ilmainen, unohtumaton, täysin ikoninen TIKO-aloitus kesälle!",
+    description: "Herää ennen auringonnousua, ja kävele keskustaan katsomaan Helsingin aamuista aurinkoa! Ota mukaan termos kahvia, ja mene istumaan laiturille. Ilmainen, ja unohtumaton aloitus kesälle!",
     location:    "Kauppatori, Helsinki",
     mapUrl:      "https://maps.google.com/?q=Kauppatori,Helsinki",
     image:       "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&q=80",
